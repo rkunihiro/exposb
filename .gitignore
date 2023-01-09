@@ -1,0 +1,15 @@
+/.idea/
+/.expo/
+/.vscode/
+/node_modules/
+
+*.bak
+*.d.ts
+*.map
+*.log
+*.swp
+*.lock
+
+._*
+.DS_Store
+Thumbs.db
